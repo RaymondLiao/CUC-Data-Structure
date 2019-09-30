@@ -1,0 +1,13 @@
+﻿  SortAssignment.cpp
+c:\raymond\programming\cuc_data_structure\codes\sortassignment.cpp(51): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\raymond\programming\cuc_data_structure\codes\sortassignment.cpp(51): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\raymond\programming\cuc_data_structure\codes\sortassignment.cpp(51): note: the missing variadic argument 2 is required by format string '%c'
+  c:\raymond\programming\cuc_data_structure\codes\sortassignment.cpp(51): note: this argument is used as a buffer size
+c:\raymond\programming\cuc_data_structure\codes\sortassignment.cpp(54): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\raymond\programming\cuc_data_structure\codes\sortassignment.cpp(54): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\raymond\programming\cuc_data_structure\codes\sortassignment.cpp(54): note: the missing variadic argument 2 is required by format string '%c'
+  c:\raymond\programming\cuc_data_structure\codes\sortassignment.cpp(54): note: this argument is used as a buffer size
+c:\raymond\programming\cuc_data_structure\codes\sortassignment.cpp(194): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'RecType'
+c:\raymond\programming\cuc_data_structure\codes\sortassignment.cpp(200): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'RecType'
+  CUC_DataStructure_Sort.vcxproj -> C:\Raymond\Programming\CUC_Data_Structure\Debug\CUC_DataStructure_Sort.exe
+  CUC_DataStructure_Sort.vcxproj -> C:\Raymond\Programming\CUC_Data_Structure\Debug\CUC_DataStructure_Sort.pdb (Full PDB)

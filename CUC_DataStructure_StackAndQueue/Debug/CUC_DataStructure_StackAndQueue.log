@@ -1,0 +1,16 @@
+﻿  Stack and Queue Assignment.cpp
+c:\raymond\programming\cuc_data_structure\codes\stack and queue assignment.cpp(83): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\raymond\programming\cuc_data_structure\codes\stack and queue assignment.cpp(83): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\raymond\programming\cuc_data_structure\codes\stack and queue assignment.cpp(83): note: the missing variadic argument 2 is required by format string '%c'
+  c:\raymond\programming\cuc_data_structure\codes\stack and queue assignment.cpp(83): note: this argument is used as a buffer size
+c:\raymond\programming\cuc_data_structure\codes\stack and queue assignment.cpp(86): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\raymond\programming\cuc_data_structure\codes\stack and queue assignment.cpp(86): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\raymond\programming\cuc_data_structure\codes\stack and queue assignment.cpp(86): note: the missing variadic argument 2 is required by format string '%c'
+  c:\raymond\programming\cuc_data_structure\codes\stack and queue assignment.cpp(86): note: this argument is used as a buffer size
+c:\raymond\programming\cuc_data_structure\codes\stack and queue assignment.cpp(94): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\raymond\programming\cuc_data_structure\codes\stack and queue assignment.cpp(94): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\raymond\programming\cuc_data_structure\codes\stack and queue assignment.cpp(94): note: the missing variadic argument 2 is required by format string '%s'
+  c:\raymond\programming\cuc_data_structure\codes\stack and queue assignment.cpp(94): note: this argument is used as a buffer size
+c:\raymond\programming\cuc_data_structure\codes\stack and queue assignment.cpp(70): warning C4101: 'l': unreferenced local variable
+  CUC_DataStructure_StackAndQueue.vcxproj -> C:\Raymond\Programming\CUC_Data_Structure\Debug\CUC_DataStructure_StackAndQueue.exe
+  CUC_DataStructure_StackAndQueue.vcxproj -> C:\Raymond\Programming\CUC_Data_Structure\Debug\CUC_DataStructure_StackAndQueue.pdb (Full PDB)
